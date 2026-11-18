@@ -1,0 +1,13 @@
+{
+  "name": "REWIRE — 28 Day Behavioural Reset",
+  "short_name": "REWIRE",
+  "description": "A free 28-day behavioural practice for focus, habits and self-trust.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f6f2",
+  "theme_color": "#14251e",
+  "orientation": "portrait",
+  "icons": [
+    {"src":"icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}

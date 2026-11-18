@@ -1,0 +1,21 @@
+REWIRE — 28 Day Behavioural Reset
+
+This package is a Progressive Web App (PWA). It is free and stores your progress locally in the browser on the device.
+
+IMPORTANT: Android installation requires the app to be served from HTTPS (or localhost). Opening index.html directly from Downloads will let you use the app, but won't enable PWA installation/offline caching in all browsers.
+
+FREE INSTALL OPTION (GitHub Pages):
+1. Create or sign in to a GitHub account.
+2. Create a new public repository named rewire-app.
+3. Upload all files and folders in this ZIP (index.html, manifest.json, service-worker.js, icons folder) to the repository root.
+4. In the repository, open Settings > Pages.
+5. Under Build and deployment, select Deploy from a branch; choose main and / (root), then Save.
+6. Wait for the Pages site URL to appear. Open that HTTPS link in Chrome on your Android phone.
+7. In Chrome, tap the three-dot menu > Add to Home screen or Install app (wording may vary).
+8. Open REWIRE from your home screen.
+
+Your entries and completed days stay in the browser's local storage. Use Settings > Export my progress periodically to save a backup. Do not clear site data if you want to retain progress.
+
+NOTES:
+- This is a self-guided behaviour practice tool, not a diagnostic or therapy app.
+- Daily notification reminders may depend on browser/platform support and the app being installed. This package saves a reminder preference but does not guarantee background push notifications.
